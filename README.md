@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @officialtechrom
 - 👀 I’m interested in Building Roms
 - 🌱 I’m currently in BCA
-- 📫 How to reach me ...
+- 📫 How to reach me You can reach me on Instagram: @officialtechrom, Youtube: Tech Rom, Twitter: @officialtechrom, Telegram: @tech_rom
