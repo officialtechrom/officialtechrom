@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sharmaaniket022@gmail.com**
 
-- 📄 Know about my experiences [Will you know everything so soon?](Will you know everything so soon?)
+- 📄 Know about my experiences (Will you know everything so soon?)
 
 - ⚡ Fun fact **I Am A Tech Rom (Youtuber)**
 
