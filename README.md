@@ -1,36 +1,37 @@
-Hi, I'm Aniket
+Aniket Lab
 
-Android app developer focused on building clean and efficient mobile applications.
+Android-focused Software Developer working on system-level behavior, reverse engineering, and debugging environments.
 
-I enjoy working with modern Android tools and improving app performance, UI smoothness, and overall user experience.
-
----
-
-About Me
-
-• Android application development
-• Building modern UI with Jetpack Compose
-• Performance optimization for large app data
-• Clean UI and smooth user experience
+I focus on understanding how Android operates beyond the surface — analyzing application behavior, experimenting with device environments, and working with low-level system interactions.
 
 ---
 
-Tech I Work With
+Work Focus
 
-• Kotlin
-• Android SDK
-• Jetpack Compose
-• Android Media APIs
-• Local database systems
-
----
-
-Currently Learning
-
-• Advanced Android architecture
-• Performance optimization techniques
-• Scalable mobile app design
+- Android system behavior and internals
+- Reverse engineering and application analysis
+- Debugging environments and log-level inspection
+- Device identity, runtime conditions, and system constraints
 
 ---
 
-Thanks for visiting my profile.
+Technical Background
+
+- Android (ADB, Custom ROMs, Root access)
+- Java and Kotlin
+- Linux and command-line tooling
+- System debugging and log analysis
+
+---
+
+Approach
+
+I work on practical problems related to how applications behave under different system conditions — focusing on analysis, experimentation, and building usable solutions.
+
+---
+
+Profile
+
+Developer focused on Android systems, debugging workflows, and reverse engineering — with an emphasis on real-world experimentation over theoretical concepts.
+
+"I work on analyzing and experimenting with Android systems beyond standard application-level development"
